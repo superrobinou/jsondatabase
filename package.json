@@ -1,0 +1,19 @@
+{
+  "name": "jsondatabase",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "robin thomas",
+  "type": "commonjs",
+  "main": "JsonDatabase.js",
+  "scripts": {
+    "demo": "tsc && node ./demo.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.2.2"
+  }
+}
